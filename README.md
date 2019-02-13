@@ -1,2 +1,4 @@
 # Example Repository
-This is a sample, Hello World!
+This is a sample repo, Hello Coders!
+
+This is a change mother f*ckers
